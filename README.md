@@ -48,7 +48,7 @@ ii) Using Weighted Averaging Filter
 
 
 ```
-iii) Using Gaussian Filter
+iii) Using Minimum Filter
 ```Python
 
 
@@ -57,7 +57,16 @@ iii) Using Gaussian Filter
 
 ```
 
-iv) Using Median Filter
+iv) Using Maximum Filter
+```Python
+
+
+
+
+
+```
+
+v) Using Median Filter
 ```Python
 
 
@@ -67,7 +76,7 @@ iv) Using Median Filter
 ```
 
 ### 2. Sharpening Filters
-i) Using Laplacian Kernal
+i) Using Laplacian Linear Kernal
 ```Python
 
 
@@ -95,21 +104,28 @@ i) Using Averaging Filter
 </br>
 </br>
 
-ii) Using Weighted Averaging Filter
+ii)Using Weighted Averaging Filter
 </br>
 </br>
 </br>
 </br>
 </br>
 
-iii) Using Gaussian Filter
+iii) Using Minimum Filter
 </br>
 </br>
 </br>
 </br>
 </br>
 
-iv) Using Median Filter
+iv) Using Maximum Filter
+</br>
+</br>
+</br>
+</br>
+</br>
+
+v) Using Median Filter
 </br>
 </br>
 </br>
