@@ -48,7 +48,7 @@ ii) Using Weighted Averaging Filter
 
 
 ```
-iii) Using Minimum Filter
+iii) Using Gaussian Filter
 ```Python
 
 
@@ -56,17 +56,7 @@ iii) Using Minimum Filter
 
 
 ```
-
-iv) Using Maximum Filter
-```Python
-
-
-
-
-
-```
-
-v) Using Median Filter
+iv)Using Median Filter
 ```Python
 
 
@@ -111,21 +101,14 @@ ii)Using Weighted Averaging Filter
 </br>
 </br>
 
-iii) Using Minimum Filter
+iii)Using Gaussian Filter
 </br>
 </br>
 </br>
 </br>
 </br>
 
-iv) Using Maximum Filter
-</br>
-</br>
-</br>
-</br>
-</br>
-
-v) Using Median Filter
+iv) Using Median Filter
 </br>
 </br>
 </br>
