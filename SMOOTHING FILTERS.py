@@ -52,6 +52,8 @@ plt.axis("off")
 plt.show()
 
 
+
+
 # In[4]:Using Median Filter
 
 
